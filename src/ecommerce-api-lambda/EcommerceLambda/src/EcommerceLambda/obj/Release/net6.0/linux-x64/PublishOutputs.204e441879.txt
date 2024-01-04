@@ -1,0 +1,16 @@
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\appsettings.json
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\aws-lambda-tools-defaults.json
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda.deps.json
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda.runtimeconfig.json
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda.pdb
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.RuntimeSupport.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda.dll
