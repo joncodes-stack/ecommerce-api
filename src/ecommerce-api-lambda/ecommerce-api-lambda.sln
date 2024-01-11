@@ -5,7 +5,12 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Lambda", "1 - Lambda", "{66287548-CBDA-4792-8F5A-B2BE8CA9DE91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceLambda", "EcommerceLambda\src\EcommerceLambda\EcommerceLambda.csproj", "{8ADA8CCB-1FB1-4200-BBF7-F45447D5EC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceLambda", "EcommerceLambda\src\EcommerceLambda\EcommerceLambda.csproj", "{8ADA8CCB-1FB1-4200-BBF7-F45447D5EC27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Doc", "2 - Doc", "{1BACB663-219A-468D-BADD-2B1194F22444}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\jonat\Downloads\diagrama-aplicacao.drawio = C:\Users\jonat\Downloads\diagrama-aplicacao.drawio
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
