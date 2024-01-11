@@ -1,3 +1,5 @@
+using EcommerceLambda.Models;
+using EcommerceLambda.Repositorys;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EcommerceLambda.Controllers
@@ -7,15 +9,41 @@ namespace EcommerceLambda.Controllers
     public class ClienteController : ControllerBase
     {
         private readonly ILogger<ClienteController> _logger;
+        private readonly IClienteRepository repository;
 
-        public ClienteController(ILogger<ClienteController> logger)
+        public ClienteController(ILogger<ClienteController> logger, IClienteRepository repository)
         {
             _logger = logger;
+            this.repository = repository;
         }
 
-        public IActionResult Index()
+        [HttpPost]
+        public async Task<IActionResult> CriarCliente(Cliente cliente)
         {
+            await this.repository.Adicionar(cliente);
             return Ok();
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> AtualizarCliente(Cliente cliente)
+        {
+            await this.repository.Atualizar(cliente);
+            return Ok();
+        }
+
+        [HttpDelete("{documento}")]
+        public async Task<IActionResult> DeletarCliente(string documento)
+        {
+            await this.repository.Deletar(documento);
+            return Ok();
+        }
+
+        [HttpGet("{documento}")]
+        public async Task<IActionResult> ObterClientePorDocumento(string documento)
+        {
+            var cliente = await this.repository.Buscar(documento);
+            
+            return Ok(cliente);
         }
     }
 }

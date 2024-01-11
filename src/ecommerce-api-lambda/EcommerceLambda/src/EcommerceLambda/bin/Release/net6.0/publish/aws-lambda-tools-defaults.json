@@ -6,10 +6,10 @@
     "All the command line options for the Lambda command can be specified in this file."
   ],
   "configuration": "Release",
-  "function-name": "ECommerceAPI",
+  "function-name": "EcommerceLambda",
   "function-memory-size": 256,
   "function-runtime": "dotnet6",
   "function-timeout": 30,
-  "function-handler": "ECommerceLambda",
+  "function-handler": "EcommerceLambda",
   "function-url-enable": true
 }

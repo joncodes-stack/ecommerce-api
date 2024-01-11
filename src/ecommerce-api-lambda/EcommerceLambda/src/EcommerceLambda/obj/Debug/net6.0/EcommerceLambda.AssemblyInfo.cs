@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34607899bb09c0e1858ccb2085f474048e1865f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

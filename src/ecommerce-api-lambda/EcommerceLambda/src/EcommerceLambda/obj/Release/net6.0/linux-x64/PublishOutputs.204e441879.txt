@@ -13,4 +13,6 @@ D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\Ecomme
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.Logging.AspNetCore.dll
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.RuntimeSupport.dll
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\publish\EcommerceLambda.dll

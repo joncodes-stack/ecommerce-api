@@ -35,3 +35,5 @@ D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\Ecomme
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\obj\Release\net6.0\linux-x64\EcommerceLambda.pdb
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\obj\Release\net6.0\linux-x64\EcommerceLambda.genruntimeconfig.cache
 D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\obj\Release\net6.0\linux-x64\ref\EcommerceLambda.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\linux-x64\AWSSDK.Core.dll
+D:\Source\GitHub\Projetos Pessoais\ecommerce-api\src\ecommerce-api-lambda\EcommerceLambda\src\EcommerceLambda\bin\Release\net6.0\linux-x64\AWSSDK.DynamoDBv2.dll

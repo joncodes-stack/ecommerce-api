@@ -9,6 +9,7 @@
     ".NETCoreApp,Version=v6.0/linux-x64": {
       "EcommerceLambda/1.0.0": {
         "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.300.33",
           "Amazon.Lambda.AspNetCoreServer.Hosting": "1.6.0"
         },
         "runtime": {
@@ -101,6 +102,25 @@
           "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.301.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.301.3"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.300.33": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.301.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.300.33"
           }
         }
       },
@@ -206,6 +226,20 @@
       "sha512": "sha512-7dGGgikMlEz72rGqeDwQEIxq+O8RDEdR4GH2S7hfZ8uzv5lyWVDuP2urV6MyD6APJ2WVHRwJlV74bB+XJncQpw==",
       "path": "amazon.lambda.serialization.systemtextjson/2.3.1",
       "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.301.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+qqBjbfSimnAPZdIcWsRh0rEOrRwz/62Im6/MxN5BcR1H/yml7iPyvni0TMLcC4JoI4Qv7ZRc8P6FWQXlvxLag==",
+      "path": "awssdk.core/3.7.301.3",
+      "hashPath": "awssdk.core.3.7.301.3.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.300.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XbVEuwlI6Z7nbiyonhgzK4jYj7K98pJO+/SipuMky42C4s/mpqsGFVMz6UV99W2FogpiGQgwVnLsBZlFX4t9ww==",
+      "path": "awssdk.dynamodbv2/3.7.300.33",
+      "hashPath": "awssdk.dynamodbv2.3.7.300.33.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/2.1.0": {
       "type": "package",

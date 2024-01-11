@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7478720bc056e86a656d4eb32cdfbf65f5903679")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34607899bb09c0e1858ccb2085f474048e1865f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcommerceLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
