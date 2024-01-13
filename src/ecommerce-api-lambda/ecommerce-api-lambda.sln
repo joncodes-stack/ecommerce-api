@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprovarPedidoLambda", "Apro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Lambda.Domain", "Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj", "{6A60E43B-5051-4D69-8807-2FFF212C600E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprovarPedido.Lambda.Tests", "AprovarPedido.Lambda.Tests\AprovarPedido.Lambda.Tests.csproj", "{33D62F87-6C66-4C03-8BF2-322E21F27FF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{6A60E43B-5051-4D69-8807-2FFF212C600E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A60E43B-5051-4D69-8807-2FFF212C600E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A60E43B-5051-4D69-8807-2FFF212C600E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D62F87-6C66-4C03-8BF2-322E21F27FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D62F87-6C66-4C03-8BF2-322E21F27FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D62F87-6C66-4C03-8BF2-322E21F27FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D62F87-6C66-4C03-8BF2-322E21F27FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +49,7 @@ Global
 		{23D62BAF-CE67-48E7-AEB0-632CD4FAD603} = {66287548-CBDA-4792-8F5A-B2BE8CA9DE91}
 		{206A1D47-5120-41F4-AED1-D761FE908905} = {66287548-CBDA-4792-8F5A-B2BE8CA9DE91}
 		{6A60E43B-5051-4D69-8807-2FFF212C600E} = {08673C9B-C10E-406C-883A-59532BD1EE1C}
+		{33D62F87-6C66-4C03-8BF2-322E21F27FF1} = {C7C993F4-E8FE-4168-BDF4-517EEEA5E8CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1903AB6D-8457-4FB0-9044-B67D1E8F5172}
