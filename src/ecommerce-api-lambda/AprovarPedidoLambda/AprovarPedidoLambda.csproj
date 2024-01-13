@@ -18,6 +18,7 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
+    <ProjectReference Include="..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
+    <ProjectReference Include="..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
   </ItemGroup>
 </Project>
