@@ -14,12 +14,10 @@
     <PackageReference Include="Amazon.Lambda.Core" Version="2.2.0" />
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.4.0" />
     <PackageReference Include="Amazon.Lambda.SQSEvents" Version="2.2.0" />
-    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.300.33" />
-    <PackageReference Include="AWSSDK.SQS" Version="3.7.300.34" />
+    <PackageReference Include="AWSSDK.S3" Version="3.7.306" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
-    <ProjectReference Include="..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Ecommerce.Lambda.Domain\Ecommerce.Lambda.Domain.csproj" />
   </ItemGroup>
 </Project>
